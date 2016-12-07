@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "750239647709",
+    "firebase_url": "https://ragincaginsoundboard.firebaseio.com",
+    "project_id": "ragincaginsoundboard",
+    "storage_bucket": "ragincaginsoundboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750239647709:android:dd908cb392565de8",
+        "android_client_info": {
+          "package_name": "com.example.james.ragincaginsoundboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750239647709-5liqdk7ssfimsk0q1agkslk1m8rapuhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.james.ragincaginsoundboard",
+            "certificate_hash": "E628641B33B34E25115EABC81DDE1F7C28202FB9"
+          }
+        },
+        {
+          "client_id": "750239647709-731b3n4npggvgndqrdnaqq3vadi8t18f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTHGmyzJa5aeBZjeRBfrqUHtE3JjoF0Oc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750239647709-731b3n4npggvgndqrdnaqq3vadi8t18f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
